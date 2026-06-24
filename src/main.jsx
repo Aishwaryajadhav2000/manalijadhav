@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.jsx'
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import {createBrowserRouter, RouterProvider} from 'react-router-dom'
-import Certificates from './pages/certificates.jsx';
+import Certificates from './pages/Certificates.jsx';
 import Body from './pages/Body.jsx';
 
 const appRouter = createBrowserRouter([
